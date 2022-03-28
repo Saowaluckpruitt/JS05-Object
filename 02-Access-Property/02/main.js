@@ -4,4 +4,4 @@ function checkObj(key) {
   }
   return true;
 }
-console.log(checkObj());
+console.log(checkObj("1"));
